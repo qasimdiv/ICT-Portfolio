@@ -1,2 +1,6 @@
-# ICT-Portfolio
-Portfolio repository containing all ICT lab work, tasks, and assignments.
+# My ICT Portfolio
+
+Name: Qasim Butt
+Program: BS Computer Science 
+
+This repository is created for my ICT assignment.
