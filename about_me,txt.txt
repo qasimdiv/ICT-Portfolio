@@ -1,0 +1,5 @@
+My name is Qasim Butt.
+I am a Computer Science student at MAJU.
+I am passionate about computer networking and systems architecture.
+I enjoy learning new programming languages and low-level development.
+This file is created for my ICT portfolio assignment.
